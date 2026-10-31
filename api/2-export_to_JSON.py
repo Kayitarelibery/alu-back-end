@@ -1,4 +1,5 @@
 #!/usr/bin/python3
+"""Export an employee's TODO tasks to a JSON file."""
 
 import json
 import sys

@@ -1,4 +1,5 @@
 #!/usr/bin/python3
+"""Export all employees' TODO tasks to a JSON file."""
 
 import json
 import urllib.request
