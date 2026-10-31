@@ -1,8 +1,9 @@
 #!/usr/bin/python3
+"""Gather employee TODO data from a REST API."""
 
+import json
 import sys
 import urllib.request
-import json
 
 
 if __name__ == "__main__":
